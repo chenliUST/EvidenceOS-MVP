@@ -1,0 +1,13 @@
+node_modules/
+.tooling/
+.env
+.env.local
+.env*.local
+.next/
+dist/
+coverage/
+.data/
+.npm-cache/
+playwright-report/
+test-results/
+*.tsbuildinfo
